@@ -1,0 +1,6 @@
+framework module Pods_socket {
+  umbrella header "Pods-socket-umbrella.h"
+
+  export *
+  module * { export * }
+}
